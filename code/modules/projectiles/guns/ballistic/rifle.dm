@@ -126,6 +126,7 @@
 /obj/item/gun/ballistic/rifle/boltaction/brand_new/prime
 	name = "\improper Regal Nagant"
 	desc = "A prized hunting Mosin Nagant. Used for the most dangerous game."
+	icon = 'icons/obj/guns/ballistic.dmi'
 	icon_state = "moistprime"
 	inhand_icon_state = "moistprime"
 	worn_icon_state = "moistprime"
